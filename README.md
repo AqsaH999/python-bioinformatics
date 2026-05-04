@@ -43,7 +43,7 @@ Daily reflections and progress tracking
 **Week 1 - Python Basics**
 - [x] Environment setup (Python 3.10, conda, Git, VS Code)
 - [x] First project: DNA sequence analyzer
-- [ ] Variables & print statements
+- [x] Variables & print statements
 - [ ] Strings & sequence manipulation
 - [ ] Numbers & calculations
 - [ ] Boolean logic & validation
