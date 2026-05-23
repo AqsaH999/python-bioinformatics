@@ -11,7 +11,8 @@ Weekly progress log for my Python for Bioinformatics journey.
 - Python: variables, strings, lists, loops, dictionaries
 - Unix: grep, pipes, sort, uniq, cut
 - Stats: p-values, statistical significance, multiple testing (StatQuest)
-- Mini-projects: DNA analyzer, gene expression tracker, codon frequency analyzer
+- Mini-projects: DNA sequence analyzer, gene expression tracker with list operations, 
+   codon frequency analyzer using dictionaries
 
 ### Key Learnings
 - Python slicing is end-exclusive (e.g., `[0:2]` gives 2 items, not 3)
@@ -20,7 +21,6 @@ Weekly progress log for my Python for Bioinformatics journey.
 - Always `sort` before `uniq` (uniq only removes adjacent duplicates)
 
 ### Challenges
-- Lost 3 days to illness — adjusted pace to 3.5-4 hrs/day instead of 4.5
 - Loops combining strings felt tricky at first — practiced until solid
 - Git file naming conflicts — learned to check file types before committing
 
