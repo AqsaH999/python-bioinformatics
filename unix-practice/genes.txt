@@ -1,0 +1,6 @@
+BRCA1 chr17 cancer
+TP53 chr17 cancer
+EGFR chr7 cancer
+INS chr11 metabolic
+HBB chr11 blood
+MYC chr8 cancer

@@ -1,0 +1,8 @@
+@read1
+ATGGCC
+@read2
+GCGCGC
+@read3
+ATGGCC
+@read4
+ATGGCC
